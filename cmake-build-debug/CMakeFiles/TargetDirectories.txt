@@ -1,0 +1,3 @@
+/Users/Michael/Desktop/Sheridan/semester4/Data Structure in C/code/SudoKuValidation/cmake-build-debug/CMakeFiles/WeiHsiangChangAssign1.dir
+/Users/Michael/Desktop/Sheridan/semester4/Data Structure in C/code/SudoKuValidation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Michael/Desktop/Sheridan/semester4/Data Structure in C/code/SudoKuValidation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
